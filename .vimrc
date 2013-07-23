@@ -25,9 +25,8 @@ Bundle 'tpope/vim-rails.git'
 Bundle 'L9'
 Bundle 'FuzzyFinder'
 
-Bundle 'git://git.wincent.com/command-t.git'
-
 Bundle 'klen/python-mode'
+Bundle 'ctrlp.vim'
 
 filetype plugin indent on
 
