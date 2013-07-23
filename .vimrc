@@ -1,4 +1,6 @@
 set nocompatible
+set number
+let mapleader=","
 filetype off
 
 set rtp+=~/.vim/bundle/vundle/
